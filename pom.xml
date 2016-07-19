@@ -18,7 +18,8 @@
         <dependency>
             <groupId>com.aspose</groupId>
             <artifactId>aspose-words</artifactId>
-            <version>14.5.0</version>
+            <version>16.6.0</version>
+            <classifier>jdk16</classifier>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
